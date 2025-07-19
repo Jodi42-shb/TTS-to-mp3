@@ -1,0 +1,6 @@
+gtts 
+flask 
+playsound 
+pyttsx3 
+pydub 
+PyPDF2
