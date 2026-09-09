@@ -23,7 +23,7 @@ This repository contains a Python-based text-to-speech (TTS) tool with a standal
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/tts-project.git
+git clone https://github.com/jodi42-shb/tts-project.git
 cd tts-project
 ```
 
